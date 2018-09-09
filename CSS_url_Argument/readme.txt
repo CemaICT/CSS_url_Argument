@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== CSS Url Argument ===
 Contributors: cema
 Donate link: http://example.com/
 Tags: css, argument, url, parameter, custom
