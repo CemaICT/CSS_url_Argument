@@ -47,6 +47,8 @@ If the code does not load because the page you are loading has no header at all,
 
 == Screenshots ==
 
+1. screenshot-1.png
+
 == Changelog ==
 
 = 1.1 =
